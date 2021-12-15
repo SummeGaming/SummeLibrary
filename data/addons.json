@@ -2,5 +2,9 @@
     "comlink": [
         {"version": 1.0},
         {"branch": "released"}
+    ],
+    "squadsystem": [
+        {"version": 1.0},
+        {"branch": "released"}
     ]
 }
